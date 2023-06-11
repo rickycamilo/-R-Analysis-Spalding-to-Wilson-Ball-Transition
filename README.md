@@ -10,6 +10,20 @@ Wilson who intended to make the new ball as close as possible to the Spalding on
 
 This partnership emphasized the NBA's pursuit of enhancing the game's integrity and maintaining the highest standards of play. With the introduction of Wilson basketballs, the NBA entered a new era, marked by a familiar but fresh collaboration but also criticism from its own players. Does the statistical data agree or disagree with the players grievances?
 
+How Will We Analyze and Munge This Data?
+
+NBAStatR is an R library specifically designed for analyzing and extracting insights from NBA basketball data. It serves as a valuable resource for statisticians, analysts, and enthusiasts interested in diving deep into the world of basketball analytics. NBAStatR provides a wide range of functions and tools to efficiently access, preprocess, and analyze NBA data, making it an indispensable tool for understanding the intricacies of the game.
+
+One of the notable features of NBAStatR is its ability to retrieve and import NBA data directly from various sources, including popular APIs and databases. This streamlined data access saves analysts time and effort, allowing them to focus on the analytical aspects of their work. In our case we will be using the default basketballreference.com which is the golden standard for comprehensive NBA data.
+
+We will be using NBAStatR in conjunction with dplyr and ggplot2 in R Studio to clean, filter, visualize and do some statistical measurements to really get to know our data. Dplyr is a powerful R library that provides a wide range of functions for efficient data manipulation and cleaning. When it comes to data cleaning, dplyr offers several essential functions that facilitate the process and ensure data integrity. With ggplot2, you can create a variety of plots, including scatter plots, line plots, bar charts, histograms, box plots, and more. It provides a flexible and intuitive syntax that allows users to specify the data, aesthetics (such as mapping variables to visual attributes like color or size), and layers of a plot.
+
+We will later analyze some advanced analytics using a web scraper and put our clean and shaped data into a K-means clustering algorithm to see if we recognize any patterns that might support the players claims that the new ball is responsible for the slight scoring slump early in the 2021-2022 season.
+
+
+  
+![image](https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past/assets/81391266/45b28364-879c-4332-9535-65babe3ce7c1)
+
 
 https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past
 
