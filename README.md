@@ -1,3 +1,5 @@
+# NBA’s 2021-2022 Spalding to Wilson Ball Transition (using R)
+
 What’s so Interesting About this Switch?
 
 The transition from Spalding basketballs to Wilson basketballs in the NBA marked a significant change for the league and its players. For over three decades, Spalding had been the official basketball supplier for the NBA, but in 2021, the league announced a new partnership with Wilson Sporting Goods. This switch brought/bring(s) about several noteworthy adjustments in the game. "The NBA players are incredibly skilled, so even very small, subtle changes can take time to adjust to. And, in some cases, maybe impossible to adjust their playing styles to, he said. Since it's still a leather ball, my guess would be that the players would adapt and adjust to it after a while. Now, how long is 'after a while? Is it weeks? Is it months? That I don't know. There is no word yet on the future of this ball. But for now, it seems like the league will wait and adjust.” Sundaresan. (2001).
