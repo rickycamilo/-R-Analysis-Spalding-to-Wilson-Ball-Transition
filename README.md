@@ -27,6 +27,8 @@ We will later analyze some advanced analytics using a web scraper and put our cl
 
 
 
+
+
 https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past/assets/81391266/500bab86-f4f3-4393-aaea-930bdf00508f
 
 
