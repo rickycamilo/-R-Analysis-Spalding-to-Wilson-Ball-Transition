@@ -20,12 +20,13 @@ We will be using NBAStatR in conjunction with dplyr and ggplot2 in R Studio to c
 
 We will later analyze some advanced analytics using a web scraper and put our clean and shaped data into a K-means clustering algorithm to see if we recognize any patterns that might support the players claims that the new ball is responsible for the slight scoring slump early in the 2021-2022 season.
 
+<img width="222" alt="image" src="https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past/assets/81391266/ce816ddf-6069-403d-b6d3-2c071b913835">
 
-  
-![image](https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past/assets/81391266/45b28364-879c-4332-9535-65babe3ce7c1)
+https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past/assets/81391266/500bab86-f4f3-4393-aaea-930bdf00508f
 
 
-https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past
 
-![image](https://github.com/rickycamilo/R-Comparing-NBA-2021-2022-Season-Shooting-to-Seasons-Past/assets/81391266/0a8fd29b-ba9e-45a4-9028-e582386a737e)
+
+
+
 
