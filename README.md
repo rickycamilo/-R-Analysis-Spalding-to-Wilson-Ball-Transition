@@ -24,9 +24,9 @@ We will later analyze some advanced analytics using a web scraper and put our cl
 
 
 
+(https://github.com/rickycamilo/-R-Analysis-Spalding-to-Wilson-Ball-Transition/files/11715586/NBA.s.2021-2022.Spalding.to.Wilson.Ball.Transition.pdf)
 
 
-https://github.com/rickycamilo/-R-Analysis-Spalding-to-Wilson-Ball-Transition/assets/81391266/be003da0-a39b-4f20-9f16-710174e47f74
 
 
 
